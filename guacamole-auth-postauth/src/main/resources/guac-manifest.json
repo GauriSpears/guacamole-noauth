@@ -1,0 +1,16 @@
+{
+
+    "guacamoleVersion" : "1.5.5",
+
+    "name"      : "Provide connections to authenticated users",
+    "namespace" : "guac-postauth",
+
+    "authProviders" : [
+        "org.apache.guacamole.auth.postauth.NoAuthenticationProvider"
+    ],
+
+    "translations" : [
+        "translations/en.json"
+    ]
+
+}
